@@ -1,0 +1,8 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    height: 100vh;
+    margin: 0;
+    background: url('https://img.freepik.com/free-vector/healthcare-medical-science-banner-with-text-space_1017-24285.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
